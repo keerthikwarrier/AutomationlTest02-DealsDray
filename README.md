@@ -10,15 +10,15 @@ I have added the Screenshots of input tag which causes the failure of execution 
 
 This below File has marked the input tag which is considered an invalid argument. Due to this, file upload is not working
 
-![Screenshot of the failure reason](https://github.com/keerthikwarrier/DealsDray-Automation-Tests/assets/13638900/48009d14-966e-44e0-85d6-469282c034dd) 
+![Screenshot of the failure reason](https://github.com/keerthikwarrier/AutomationlTest02-DealsDray/assets/13638900/1238e864-bb01-4daf-b04c-c4fdf750e1b3)
 
 This below file shows the step of clicking the ChooseFile Link
 
-![ScreeshotofClickingFileUpload](https://github.com/keerthikwarrier/DealsDray-Automation-Tests/assets/13638900/6e0de510-26e3-49e1-8234-9128478192e7) 
+![ScreeshotofClickingFileUpload](https://github.com/keerthikwarrier/AutomationlTest02-DealsDray/assets/13638900/658ed335-39c8-487f-8e3f-af8da732af70)
 
 This below file shows the FileUpload Window Opening but cannot upload the file
 
-![ScreenshotFileNotUploading](https://github.com/keerthikwarrier/DealsDray-Automation-Tests/assets/13638900/764ed095-8acc-47f7-9ef8-b1cf571ad460) 
+![ScreenshotFileNotUploading](https://github.com/keerthikwarrier/AutomationlTest02-DealsDray/assets/13638900/1cd44da3-7c28-474a-9c98-ad0c21d7fad7)
 
 DealsDrayVideo - Login and FileUpload Video : 
 
