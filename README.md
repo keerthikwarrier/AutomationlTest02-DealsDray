@@ -1,5 +1,6 @@
 # AutomationTest02-DealsDray
-The Functional Test of the DealsDray Test
+The Functional Test of the DealsDray Test.
+
 I have written the code using Nunit in Page Object Model for keeping the WebElements and methods related to that separately making the code structured. POM can increase the code maintainability, reusability, and readability.
 This Repository has the Scripts, Videos, Screenshots, and Failures of the Automation Tests 
 
