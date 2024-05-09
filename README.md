@@ -24,6 +24,8 @@ The below file shows the FileUpload Window Opening but cannot upload the file
 
 DealsDrayVideo - Login and FileUpload Video : 
 
-https://github.com/keerthikwarrier/DealsDray-Automation-Tests/assets/13638900/235473bc-5a91-42ae-b393-66b8478e9000
+https://github.com/keerthikwarrier/DealsDray-AutomationlTest02-FunctionalTesting/assets/13638900/b4df005a-c92d-4da8-a744-8c5d1a7ec9eb
+
+
 
 keerthikwarrier/DealsDray-Automation-Tests
