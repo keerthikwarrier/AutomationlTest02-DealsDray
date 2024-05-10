@@ -24,7 +24,7 @@ namespace AutomationlTest02_DealsDray
             LoginPage loginpage = new LoginPage(driver);
             loginpage.Login("prexo.mis@dealsdray.com", "prexo.mis@dealsdray.com");
             FileUploadPage FUPage = new FileUploadPage(driver);
-            FUPage.UploadFiles(@"C:\Users\\Keert\OneDrive\Desktop\demo-data.xlsx");
+            FUPage.UploadFiles(@"C:\Users\Keert\OneDrive\Desktop\demo-data.xlsx");
         }
         [TearDown]
         public void TearDown()
